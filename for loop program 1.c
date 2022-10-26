@@ -1,4 +1,5 @@
 //this program prints a pattern with for loop
+//my reg no is RA2211042010032
 #include<stdio.h>
 int main(){
     int i,j,k;
